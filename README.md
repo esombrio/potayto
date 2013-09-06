@@ -1,1 +1,1 @@
-A test repository for learning git
+This file was added by github.
